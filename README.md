@@ -1,8 +1,6 @@
-# Ecosistema - Directorio de impacto
+Proyecto grupal con la empresa Quinto Impacto que se realizo durante los meses de febrero 2024 - mayo 2024. El cual es un directorio de empresas de impacto para proveernos de servicios a los usuarios interesados en consumir este tipo de plataformas
 
 ## Configuraciones Generales
-
-### Requisitos Previos
 
 - JDK (Java Development Kit) versión 17.x o superior.
 - Maven versión 3.9.x o superior.
