@@ -36,8 +36,7 @@ Para facilitar la configuración del proyecto y garantizar que cada desarrollado
 1. Crear el Archivo .env a partir del .env.example:
 2. Una vez creado el archivo .env, es importante revisar y modificar cada variable de entorno según sea necesario.
 3. El archivo .env ya está ignorado en el .gitignore
-4. Es necesario que en el archivo .env coloque las siguientes modificaciones con el fin de que la app le corra correctamente:
-   - 
+
 
 
 
