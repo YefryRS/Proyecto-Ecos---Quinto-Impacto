@@ -1,4 +1,10 @@
-Proyecto grupal con la empresa Quinto Impacto que se realizo durante los meses de febrero 2024 - mayo 2024. El cual es un directorio de empresas de impacto para proveernos de servicios a los usuarios interesados en consumir este tipo de plataformas
+## Descripcion del proyecto
+
+- Proyecto grupal con la empresa Quinto Impacto que se realizo durante los meses de febrero 2024 - mayo 2024. El cual es un directorio de empresas de impacto para proveernos de servicios a los usuarios interesados en consumir este tipo de plataformas
+- Para la creacion del proyecto se usaron tecnologias Java,Spring Boot y MariaDB. Ademas se implemento spring security y ouath para darle seguridad a nuestra app. 
+- Entre algunas buenas practicas que se usaron para desarrollar fue el uso de dtos, mappers, manejo de los ResponseEntity y una buena separacion de capas. 
+- Cada dos semanas se realizaaban sprints, y teniamos dailys 3 dias con el fin de mantener al tanto los avances del proyecto.
+- Se hizo uso de la metodologia scrum y de herramientas como trello, figma y gititea para mostrar y estar al tanto de los avances grupales del proyecto
 
 ## Configuraciones Generales
 
@@ -30,4 +36,8 @@ Para facilitar la configuración del proyecto y garantizar que cada desarrollado
 1. Crear el Archivo .env a partir del .env.example:
 2. Una vez creado el archivo .env, es importante revisar y modificar cada variable de entorno según sea necesario.
 3. El archivo .env ya está ignorado en el .gitignore
+4. Es necesario que en el archivo .env coloque las siguientes modificaciones con el fin de que la app le corra correctamente:
+   - 
+
+
 
